@@ -1,8 +1,6 @@
 site_name: Avesani_Dennis
 
 nav:
-   
     - 'MD': 'index.md'
-    - 'Test': 'test.txt'
 theme:
     name: readthedocs
