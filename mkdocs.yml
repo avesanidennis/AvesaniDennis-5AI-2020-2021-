@@ -1,0 +1,7 @@
+site_name: Avesani Dennis
+
+nav:
+    - 'MD': 'README.md'
+    - 'Test': 'test.txt'
+theme:
+    name: readthedocs
