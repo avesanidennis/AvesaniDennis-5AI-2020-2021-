@@ -2,5 +2,6 @@ site_name: Avesani_Dennis
 
 nav:
     - 'MD': 'index.md'
+    - 'PHP': 'fanrenheit_celsius.php'
 theme:
     name: readthedocs
