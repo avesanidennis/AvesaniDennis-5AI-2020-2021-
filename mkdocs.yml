@@ -2,6 +2,7 @@ site_name: Avesani_Dennis
 
 nav:
     - 'MD': 'index.md'
-    - 'PHP': 'fanrenheit_celsius.php'
+    - 'Fanrenheit Celsius': 'fanrenheit_celsius.php'
+    - 'Tavola Pitagorica': 'tavola_pitagorica.php'
 theme:
     name: readthedocs
