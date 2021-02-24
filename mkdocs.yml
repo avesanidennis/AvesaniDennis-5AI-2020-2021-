@@ -4,5 +4,6 @@ nav:
     - 'MD': 'index.md'
     - 'Fanrenheit Celsius': 'fanrenheit_celsius.php'
     - 'Tavola Pitagorica': 'tavola_pitagorica.php'
+    - 'Indovina Numero': 'indovinanumero.php'
 theme:
     name: readthedocs
